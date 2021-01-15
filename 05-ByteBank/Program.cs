@@ -14,6 +14,10 @@ namespace _05_ByteBank
 
             ContaCorrente conta1 = new ContaCorrente();
             conta1.titular = c1;
+            conta1.agencia = 863;
+            conta1.numero = 863123;
+            conta1.saldo = 100;
+            
             
         }
     }

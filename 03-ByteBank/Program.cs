@@ -6,7 +6,9 @@ namespace _03_ByteBank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ContaCorrente conta = new ContaCorrente();
+            conta.titular = "Gabriela";
+            
         }
     }
 }

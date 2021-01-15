@@ -13,9 +13,9 @@ namespace _03_ByteBank
 
 
             ContaCorrente conta2 = new ContaCorrente();
-            conta.titular = "Gabriela";
-            conta.agencia = 863;
-            conta.numero = 863546;
+            conta2.titular = "Gabriela";
+            conta2.agencia = 863;
+            conta2.numero = 863546;
             
             //false, pois conta e conta2 apontam para diferentes referências
             Console.WriteLine(conta == conta2);

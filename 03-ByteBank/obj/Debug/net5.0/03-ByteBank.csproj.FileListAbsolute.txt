@@ -1,0 +1,16 @@
+/home/ygor/Documents/CSharpAlura/03-ByteBank/bin/Debug/net5.0/03-ByteBank
+/home/ygor/Documents/CSharpAlura/03-ByteBank/bin/Debug/net5.0/03-ByteBank.deps.json
+/home/ygor/Documents/CSharpAlura/03-ByteBank/bin/Debug/net5.0/03-ByteBank.runtimeconfig.json
+/home/ygor/Documents/CSharpAlura/03-ByteBank/bin/Debug/net5.0/03-ByteBank.runtimeconfig.dev.json
+/home/ygor/Documents/CSharpAlura/03-ByteBank/bin/Debug/net5.0/03-ByteBank.dll
+/home/ygor/Documents/CSharpAlura/03-ByteBank/bin/Debug/net5.0/ref/03-ByteBank.dll
+/home/ygor/Documents/CSharpAlura/03-ByteBank/bin/Debug/net5.0/03-ByteBank.pdb
+/home/ygor/Documents/CSharpAlura/03-ByteBank/obj/Debug/net5.0/03-ByteBank.csprojAssemblyReference.cache
+/home/ygor/Documents/CSharpAlura/03-ByteBank/obj/Debug/net5.0/03-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/ygor/Documents/CSharpAlura/03-ByteBank/obj/Debug/net5.0/03-ByteBank.AssemblyInfoInputs.cache
+/home/ygor/Documents/CSharpAlura/03-ByteBank/obj/Debug/net5.0/03-ByteBank.AssemblyInfo.cs
+/home/ygor/Documents/CSharpAlura/03-ByteBank/obj/Debug/net5.0/03-ByteBank.csproj.CoreCompileInputs.cache
+/home/ygor/Documents/CSharpAlura/03-ByteBank/obj/Debug/net5.0/03-ByteBank.dll
+/home/ygor/Documents/CSharpAlura/03-ByteBank/obj/Debug/net5.0/ref/03-ByteBank.dll
+/home/ygor/Documents/CSharpAlura/03-ByteBank/obj/Debug/net5.0/03-ByteBank.pdb
+/home/ygor/Documents/CSharpAlura/03-ByteBank/obj/Debug/net5.0/03-ByteBank.genruntimeconfig.cache

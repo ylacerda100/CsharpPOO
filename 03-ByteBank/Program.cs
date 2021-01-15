@@ -8,7 +8,17 @@ namespace _03_ByteBank
         {
             ContaCorrente conta = new ContaCorrente();
             conta.titular = "Gabriela";
+            conta.agencia = 863;
+            conta.numero = 863546;
+
+
+            ContaCorrente conta2 = new ContaCorrente();
+            conta.titular = "Gabriela";
+            conta.agencia = 863;
+            conta.numero = 863546;
             
+            Console.WriteLine(conta == conta2);
+        
         }
     }
 }

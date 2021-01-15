@@ -17,8 +17,21 @@ namespace _03_ByteBank
             conta.agencia = 863;
             conta.numero = 863546;
             
+            //false, pois conta e conta2 apontam para diferentes referências
             Console.WriteLine(conta == conta2);
             
+
+            
+            conta = conta2;
+            //true, agora apontam para o mesmo objeto
+            Console.WriteLine(conta == conta2);
+
+            conta.saldo = 300;
+            Console.WriteLine(conta.saldo);
+            Console.WriteLine(conta2.saldo);
+
+
+
         }
 
     
